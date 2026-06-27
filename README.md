@@ -5,6 +5,7 @@
 This notebook demonstrates a product analytics workflow using a synthetic event dataset that simulates clinician interactions with a healthcare AI platform.
 
 The goal of the project is to analyze user behavior throughout the product lifecycle, from onboarding and retention to feature adoption and disengagement, while emphasizing not only how to calculate product metrics, but also how to critically evaluate whether those metrics truly reflect product value.
+
 ---
 
 ## Project Objectives
@@ -15,6 +16,7 @@ The notebook addresses four common product analytics questions:
 - Where do users drop out of the product workflow?
 - How should engagement with AI-generated recommendations be measured?
 - How can behavioral data be used to detect early signs of user disengagement?
+  
 ---
 
 ## Dataset
